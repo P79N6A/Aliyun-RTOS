@@ -1,0 +1,15 @@
+# TO Delete if release
+bin
+
+iotkit-embedded.pkgs
+
+# Compile intermediate file
+.output
+*.d
+*.o
+*.a
+
+# Config file
+.settings
+.project
+.cproject
